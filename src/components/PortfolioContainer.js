@@ -13,13 +13,13 @@ export default function PortfolioContainer() {
         if (currentPage === 'Home') {
             return <Home />;
         }
-        // if (currentPage === 'About Me') {
-        //     return <About />;
-        // }
-        // if (currentPage === 'Contact') {
-        //     return <Contact />;
-        // }
-        // return <MyWork />;
+        if (currentPage === 'About Me') {
+            return <About />;
+        }
+        if (currentPage === 'Contact') {
+            return <Contact />;
+        }
+        return <MyWork />;
     };
 
     const handlePageChange = (page) => setCurrentPage(page);
@@ -30,7 +30,7 @@ export default function PortfolioContainer() {
             <Navigation page={currentPage} handlePageChange={handlePageChange} />
             {/* Here we are calling the renderPage method which will return a component  */}
             {renderPage()}
-            {/* <Footer /> */}
+            <Footer />
         </div>
     );
 }
