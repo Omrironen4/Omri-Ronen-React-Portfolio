@@ -16,7 +16,7 @@ const Navigation = ({ page, handlePageChange }) => {
                 </a>
                 <ul className="left hide-on-med-and-down">
                     <li>
-                        <a className="middle"
+                        <a className="middle active"
                             onClick={() => handlePageChange('Contact')}
                             href="#contact">Contact
 

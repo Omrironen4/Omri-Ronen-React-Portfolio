@@ -5,8 +5,7 @@ import M from 'materialize-css';
 
 document.addEventListener('DOMContentLoaded', function() {
     let elems = document.querySelectorAll('.sidenav');
-    let instance = M.Sidenav.getInstance(elems);
-    instance.open();
+    M.Sidenav.init(elems, {});
   });
 
 const SideNav = ({handlePageChange}) => {

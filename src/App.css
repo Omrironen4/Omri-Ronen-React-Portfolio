@@ -344,3 +344,15 @@ ul {
 html {
   font-size: 17px;
 }}
+
+.headshot {
+  max-width: 500px;
+    max-height: 300px;
+    margin-bottom: 0px;
+    border-radius: 1000px;
+
+    /* vertical-align: middle;
+    width: 310px;
+    height: 340px;
+    border-radius: 700%; */
+}
