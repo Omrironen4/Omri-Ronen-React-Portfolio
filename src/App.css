@@ -146,12 +146,14 @@ ul {
   font-family: 'Lato', sans-serif;
   font-size: 3.8vh;
   color:#FFF;
+  font-weight: 800;
   /* text-decoration: underline; */
 }
 .about-me-par {
   font-family: 'Lato', sans-serif;
   font-size: 2.45vh;
   color: #FFF;
+  
 }
 .page-footer {
   padding-top: 0px;
@@ -348,11 +350,10 @@ html {
 .headshot {
   max-width: 500px;
     max-height: 300px;
-    margin-bottom: 0px;
+    margin-bottom: 0%;
     border-radius: 1000px;
+}
 
-    /* vertical-align: middle;
-    width: 310px;
-    height: 340px;
-    border-radius: 700%; */
+.techFont {
+  font-size: 20px;
 }

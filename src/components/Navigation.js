@@ -18,21 +18,21 @@ const Navigation = ({ page, handlePageChange }) => {
                     <li>
                         <a className="middle active"
                             onClick={() => handlePageChange('Contact')}
-                            href="#contact">Contact
+                            href="#">Contact
 
                         </a>
                     </li>
                     <li>
                         <a className="middle"
                             onClick={() => handlePageChange('About Me')}
-                            href="#aboutme">About
+                            href="#">About
                             Me
                         </a>
                     </li>
                     <li>
                         <a className="middle"
                             onClick={() => handlePageChange('My Work')}
-                            href="#mywork">My
+                            href="#">My
                             Work
                         </a>
                     </li>
