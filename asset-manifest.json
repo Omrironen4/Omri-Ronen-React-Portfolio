@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ee41756e.chunk.css",
+    "main.js": "/static/js/main.d0afd946.chunk.js",
+    "main.js.map": "/static/js/main.d0afd946.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6adee7f6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6adee7f6.js.map",
+    "static/js/2.7cab5ab7.chunk.js": "/static/js/2.7cab5ab7.chunk.js",
+    "static/js/2.7cab5ab7.chunk.js.map": "/static/js/2.7cab5ab7.chunk.js.map",
+    "static/js/3.111abb4f.chunk.js": "/static/js/3.111abb4f.chunk.js",
+    "static/js/3.111abb4f.chunk.js.map": "/static/js/3.111abb4f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.ee41756e.chunk.css.map": "/static/css/main.ee41756e.chunk.css.map",
+    "static/js/2.7cab5ab7.chunk.js.LICENSE.txt": "/static/js/2.7cab5ab7.chunk.js.LICENSE.txt",
+    "static/media/HeadShot.7f4517af.jpg": "/static/media/HeadShot.7f4517af.jpg",
+    "static/media/budget.25cdba1e.png": "/static/media/budget.25cdba1e.png",
+    "static/media/buyit.fa3a71d9.png": "/static/media/buyit.fa3a71d9.png",
+    "static/media/kauai-pic.a2f8e105.jpg": "/static/media/kauai-pic.a2f8e105.jpg",
+    "static/media/makeit.0d0f59d4.png": "/static/media/makeit.0d0f59d4.png",
+    "static/media/notetaker.2056390d.png": "/static/media/notetaker.2056390d.png",
+    "static/media/petconnect.38dd0178.png": "/static/media/petconnect.38dd0178.png",
+    "static/media/weatherapp.4fe0864e.png": "/static/media/weatherapp.4fe0864e.png",
+    "static/media/workout.4d71afd0.png": "/static/media/workout.4d71afd0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6adee7f6.js",
+    "static/js/2.7cab5ab7.chunk.js",
+    "static/css/main.ee41756e.chunk.css",
+    "static/js/main.d0afd946.chunk.js"
+  ]
+}
