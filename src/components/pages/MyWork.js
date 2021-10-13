@@ -9,15 +9,15 @@ import budgetTracker from '../../Assets/Images/budget.png';
 export default function MyWork() {
     return (
         <main>
-            {/* <!-- row --> */}
+            {/* <!-- 5th row --> */}
             <div className="row">
                 <div className="center col s12 m12 l12">
                     <p className="title" id="mywork">My
                         work</p>
                 </div>
             </div>
-             {/* <!-- row --> */}
-             <div className="row">
+            {/* <!-- 6th row --> */}
+            <div className="row">
                 <div className="col s12 m6 l6">
                     <i className="material-icons">filter_list</i>
                     <p className="project-title">Make it |
@@ -30,7 +30,7 @@ export default function MyWork() {
                     <a href="https://omrironen4.github.io/project-1/" target="_blank">Go to application</a>
                 </div>
             </div>
-            {/* <!-- row --> */}
+            {/* <!-- 7th row --> */}
             <div className="row">
                 <div className="col s12 m8 l8">
                     <p className="project-des techFont">An
@@ -43,7 +43,7 @@ export default function MyWork() {
 
 
 
-            {/* <!-- row  --> */}
+            {/* <!-- 8th row make it & buy it card --> */}
             <div className="row">
                 <div className="card small col s5 m4 l4">
                     <div
@@ -100,92 +100,7 @@ export default function MyWork() {
 
 
 
-            {/* <!-- row --> */}
-            {/* <!-- row --> */}
-            <div className="row">
-                <div className="col s12 m6 l6">
-                    <i className="material-icons">filter_list</i>
-                    <p className="project-title">Make it |
-                        Buy it</p>
-                </div>
-            </div>
-            {/* <!-- row --> */}
-            <div className="row">
-                <div className="col s6 m6 l6">
-                    <a href="https://omrironen4.github.io/project-1/" target="_blank">Go to application</a>
-                </div>
-            </div>
-            {/* <!-- row --> */}
-            <div className="row">
-                <div className="col s12 m8 l8">
-                    <p className="project-des techFont">An
-                        application that helps users
-                        choose between making food or
-                        buying food.</p>
-                </div>
-            </div>
-
-
-
-
-            {/* <!-- row  --> */}
-            <div className="row">
-                <div className="card small col s5 m4 l4">
-                    <div
-                        className="card-image waves-effect waves-block waves-light">
-                        <img className="activator"
-                            src={MakeIt} />
-                    </div>
-                    <div className="card-content">
-                        <span
-                            className="card-title activator grey-text text-darken-4">Make
-                            it page<i
-                                className="material-icons right">more_vert</i></span>
-                        <p><i className="material-icons"><a
-                            href="#https://iamalittleforest.github.io/project-1/makeit.html"></a>link</i>
-                        </p>
-                    </div>
-                    <div className="card-reveal">
-                        <span
-                            className="card-title grey-text text-darken-4"><i
-                                className="material-icons right">close</i></span>
-                        <p className="info">Enter your
-                            ingredients separated by a
-                            comma, and find some
-                            amazing recipes!</p>
-                    </div>
-                </div>
-
-                <div className="card small col s5 m4 l4">
-                    <div
-                        className="card-image waves-effect waves-block waves-light">
-                        <img className="activator"
-                            src={buyIt} />
-                    </div>
-                    <div className="card-content">
-                        <span
-                            className="card-title activator grey-text text-darken-4">Buy
-                            it page<i
-                                className="material-icons right">more_vert</i></span>
-                        <p><i className="material-icons"><a
-                            className="link"
-                            href="https://iamalittleforest.github.io/project-1/buyit.html"></a>link</i>
-                        </p>
-                    </div>
-                    <div className="card-reveal">
-                        <span
-                            className="card-title grey-text text-darken-4"><i
-                                className="material-icons right">close</i></span>
-                        <p className="info">Search for
-                            restaurants near you by
-                            typing in your city!</p>
-                    </div>
-                </div>
-            </div>
-
-
-
-            {/* <!-- row --> */}
+            {/* <!-- 9th row --> */}
             <div className="row">
                 <div className="col s12 m6 l6">
                     <i className="material-icons">filter_list</i>
@@ -199,7 +114,7 @@ export default function MyWork() {
                     <a href="https://omrironen4.github.io/weather-dashboard-homework-6/" target="_blank">Go to application</a>
                 </div>
             </div>
-            {/* <!-- row --> */}
+            {/* <!-- 10th row --> */}
             <div className="row">
                 <div className="col s12 m8 l8">
                     <p className="project-des techFont">Weather
@@ -209,7 +124,7 @@ export default function MyWork() {
                         around the world.</p>
                 </div>
             </div>
-            {/* <!-- row --> */}
+            {/* <!-- 11th row --> */}
             <div className="row">
                 <div className="card small col s8 m8 l8">
                     <div
@@ -241,26 +156,26 @@ export default function MyWork() {
                     </div>
                 </div>
             </div>
-            {/* <!-- row --> */}
+            {/* <!-- 12th row --> */}
             <div className="row">
                 <div className="col s12 m6 l6">
                     <i className="material-icons">filter_list</i>
                     <p className="project-title">Pet Connect</p>
                 </div>
             </div>
-            {/* <!-- row --> */}
+            {/* <!-- 13th row --> */}
             <div className="row">
                 <div className="col s6 m6 l6">
                     <a href="https://project-2-pet-connect.herokuapp.com/" target="_blank">Go to application</a>
                 </div>
             </div>
-            {/* <!-- row --> */}
+            {/* <!-- 14th row --> */}
             <div className="row">
                 <div className="col s12 m8 l8">
                     <p className="project-des techFont">Pet Connect is an application for pet owners around Orange County to chat and connect!</p>
                 </div>
             </div>
-            {/* <!-- row --> */}
+            {/* <!-- 15th row --> */}
             <div className="row">
                 <div className="card small col s8 m8 l8">
                     <div
@@ -289,26 +204,26 @@ export default function MyWork() {
                 </div>
             </div>
 
-            {/* <!-- row --> */}
+            {/* <!-- 16th row --> */}
             <div className="row">
                 <div className="col s12 m6 l6">
                     <i className="material-icons">filter_list</i>
                     <p className="project-title">Note Taker</p>
                 </div>
             </div>
-            {/* <!-- row --> */}
+            {/* <!-- 17th row --> */}
             <div className="row">
                 <div className="col s6 m6 l6">
                     <a href="https://note-taker-04.herokuapp.com/" target="_blank">Go to application</a>
                 </div>
             </div>
-            {/* <!-- row --> */}
+            {/* <!-- 18th row --> */}
             <div className="row">
                 <div className="col s12 m8 l8">
                     <p className="project-des techFont">Note Taker is an application that allows users to create, edit, and remove notes. This is a great place to store notes for just about anything. </p>
                 </div>
             </div>
-            {/* <!-- row --> */}
+            {/* <!-- 19th row --> */}
             <div className="row">
                 <div className="card small col s8 m8 l8">
                     <div
@@ -336,26 +251,26 @@ export default function MyWork() {
                 </div>
             </div>
 
-            {/* <!-- row --> */}
+            {/* <!-- 16th row --> */}
             <div className="row">
                 <div className="col s12 m6 l6">
                     <i className="material-icons">filter_list</i>
                     <p className="project-title">Workout Tracker</p>
                 </div>
             </div>
-            {/* <!-- row --> */}
+            {/* <!-- 17th row --> */}
             <div className="row">
                 <div className="col s6 m6 l6">
                     <a href="https://oms-workout-tracker.herokuapp.com/" target="_blank">Go to application</a>
                 </div>
             </div>
-            {/* <!-- row --> */}
+            {/* <!-- 18th row --> */}
             <div className="row">
                 <div className="col s12 m8 l8">
                     <p className="project-des techFont">Workout Tracker is an application that helps users keep track of their workouts. Users can enter the type of workout, such as resitance or cardio. Detailed graphs are made based on the inputs.</p>
                 </div>
             </div>
-            {/* <!-- row --> */}
+            {/* <!-- 19th row --> */}
             <div className="row">
                 <div className="card small col s8 m8 l8">
                     <div
@@ -384,26 +299,26 @@ export default function MyWork() {
             </div>
 
             {/* NEW NEW */}
-            {/* <!-- row --> */}
+            {/* <!-- 16th row --> */}
             <div className="row">
                 <div className="col s12 m6 l6">
                     <i className="material-icons">filter_list</i>
                     <p className="project-title">Budget Tracker</p>
                 </div>
             </div>
-            {/* <!-- row --> */}
+            {/* <!-- 17th row --> */}
             <div className="row">
                 <div className="col s6 m6 l6">
                     <a href="https://budget-tracker-omri.herokuapp.com/" target="_blank">Go to application</a>
                 </div>
             </div>
-            {/* <!-- row --> */}
+            {/* <!-- 18th row --> */}
             <div className="row">
                 <div className="col s12 m8 l8">
                     <p className="project-des techFont">Budge Tracker is an application that helps users keep track of their financial activities. Users can enter their expenses and incomes and in return a chart will display their activity.</p>
                 </div>
             </div>
-            {/* <!-- row --> */}
+            {/* <!-- 19th row --> */}
             <div className="row">
                 <div className="card small col s8 m8 l8">
                     <div
