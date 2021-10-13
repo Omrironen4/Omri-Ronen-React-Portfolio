@@ -27,7 +27,7 @@ export default function MyWork() {
             {/* <!-- row --> */}
             <div className="row">
                 <div className="col s6 m6 l6">
-                    <a href="https://omrironen4.github.io/project-1/" target="_blank">Link to application</a>
+                    <a href="https://omrironen4.github.io/project-1/" target="_blank">Go to application</a>
                 </div>
             </div>
             {/* <!-- 7th row --> */}
@@ -111,7 +111,7 @@ export default function MyWork() {
             {/* <!-- row --> */}
             <div className="row">
                 <div className="col s6 m6 l6">
-                    <a href="https://omrironen4.github.io/weather-dashboard-homework-6/" target="_blank">Link to application</a>
+                    <a href="https://omrironen4.github.io/weather-dashboard-homework-6/" target="_blank">Go to application</a>
                 </div>
             </div>
             {/* <!-- 10th row --> */}
@@ -166,7 +166,7 @@ export default function MyWork() {
             {/* <!-- 13th row --> */}
             <div className="row">
                 <div className="col s6 m6 l6">
-                    <a href="https://project-2-pet-connect.herokuapp.com/" target="_blank">Link to application</a>
+                    <a href="https://project-2-pet-connect.herokuapp.com/" target="_blank">Go to application</a>
                 </div>
             </div>
             {/* <!-- 14th row --> */}
@@ -214,7 +214,7 @@ export default function MyWork() {
             {/* <!-- 17th row --> */}
             <div className="row">
                 <div className="col s6 m6 l6">
-                    <a href="https://note-taker-04.herokuapp.com/" target="_blank">Link to application</a>
+                    <a href="https://note-taker-04.herokuapp.com/" target="_blank">Go to application</a>
                 </div>
             </div>
             {/* <!-- 18th row --> */}
@@ -261,7 +261,7 @@ export default function MyWork() {
             {/* <!-- 17th row --> */}
             <div className="row">
                 <div className="col s6 m6 l6">
-                    <a href="https://oms-workout-tracker.herokuapp.com/" target="_blank">Link to application</a>
+                    <a href="https://oms-workout-tracker.herokuapp.com/" target="_blank">Go to application</a>
                 </div>
             </div>
             {/* <!-- 18th row --> */}
@@ -309,7 +309,7 @@ export default function MyWork() {
             {/* <!-- 17th row --> */}
             <div className="row">
                 <div className="col s6 m6 l6">
-                    <a href="https://budget-tracker-omri.herokuapp.com/" target="_blank">Link to application</a>
+                    <a href="https://budget-tracker-omri.herokuapp.com/" target="_blank">Go to application</a>
                 </div>
             </div>
             {/* <!-- 18th row --> */}
