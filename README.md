@@ -4,7 +4,7 @@
 * [About Me](https://github.com/Omrironen4/Omri-Ronen-React-Portfolio#about-me)
 * [Description](#description)
 * [How to reach me](https://github.com/Omrironen4/Omri-Ronen-React-Portfolio#how-to-reach-me)
-* [Link to portfolio](#Link_to_portfolio)
+* [Link to portfolio](https://github.com/Omrironen4/Omri-Ronen-React-Portfolio#link-to-portfoloio)
 
 ## About Me 
 - Hello! My name is Omri Ronen and I'm a full-stack web developer :technologist:
