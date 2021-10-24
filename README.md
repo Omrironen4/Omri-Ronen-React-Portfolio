@@ -1,5 +1,8 @@
 # Welcome to my portfolio! 
 
+## Table of Contents 
+- 
+
 ## About Me 
 - Hello! My name is Omri Ronen and I'm a full-stack web developer :technologist:
 - I have a strong passion for code and I love learning new languages & technologies.
