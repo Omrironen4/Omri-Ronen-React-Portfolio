@@ -12,7 +12,7 @@
 
 ## Description 
 
-Welcome to my porfolio where you can access my information and learn a little bit more about me! I developed this porfolio using HTML5, CSS3, JavaScript, and React!
+Welcome to my portfolio where you can access my information and learn a little bit more about me! I developed this portfolio using HTML5, CSS3, JavaScript, and React!
 
 ### How to reach me:
 
