@@ -2,8 +2,11 @@
 
 ## About Me 
 - Hello! My name is Omri Ronen and I'm a full-stack web developer :technologist:
-- This is my portfolio that I built using JavaScript and React.
 - I have a strong passion for code and I love learning new languages & technologies.
+
+## Description 
+
+Welcome to my porfolio where you can access my information and learn a little bit more about me! I developed this porfolio using HTML5, CSS3, JavaScript, and React!
 
 ### How to reach me:
 
