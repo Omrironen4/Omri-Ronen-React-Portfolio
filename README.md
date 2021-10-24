@@ -7,7 +7,7 @@
 
 ### How to reach me:
 
-- :mailbox_with_mail: [Email] (omri.ronen4@gmail.com)
+- :mailbox_with_mail: [Email](omri.ronen4@gmail.com)
 - (LinkedIn)  [https://www.linkedin.com/in/omri4/]
 
 ### Link to portfoloio
