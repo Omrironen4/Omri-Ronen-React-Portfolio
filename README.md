@@ -21,4 +21,4 @@ Welcome to my portfolio where you can access my information and learn a little b
 
 ### Link to portfoloio:
 
-- [Portfolio](https://omrironen4.github.io/Omri-Ronen-React-Portfolio/)
+- [Portfolio](https://omri-ronen-portfolio.herokuapp.com/)
