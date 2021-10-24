@@ -19,6 +19,6 @@ Welcome to my porfolio where you can access my information and learn a little bi
 - :mailbox_with_mail: [Email](omri.ronen4@gmail.com)
 - :raising_hand_man:  [LinkedIn](https://www.linkedin.com/in/omri4/)
 
-### Link to portfoloio
+### Link to portfoloio:
 
 - [Portfolio](https://omrironen4.github.io/)
