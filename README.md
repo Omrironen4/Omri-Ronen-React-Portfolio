@@ -7,9 +7,9 @@
 
 ### How to reach me:
 
-- Email :mailbox_with_mail: : [(omri.ronen4@gmail.com)]
-- LinkedIn: [(https://www.linkedin.com/in/omri4/)]
+- Email :mailbox_with_mail: : [omri.ronen4@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/omri4/]
 
 ### Link to portfoloio
 
-- [(https://omrironen4.github.io/)]
+- [https://omrironen4.github.io/]
