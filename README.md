@@ -1,7 +1,10 @@
 # Welcome to my portfolio! 
 
-## Table of Contents 
-- 
+## Table of Contents
+* [About Me](#About Me)
+* [Description](#description)
+* [How to reach me](How to reach me)
+* [Link to portfolio](Link to portfolio)
 
 ## About Me 
 - Hello! My name is Omri Ronen and I'm a full-stack web developer :technologist:
