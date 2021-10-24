@@ -48,7 +48,7 @@ const Navigation = ({ page, handlePageChange }) => {
                     </li>
                     <li>
                         <a
-                            className="middle" href="https://drive.google.com/file/d/1JJspBroYz5PJ7zU6ddvn1zbUDDIprfEl/view?usp=sharing" target="_blank">Resume
+                            className="middle" href="https://drive.google.com/file/d/11bm2CmFsTKkYdg1q8v4CPPJ863d06mXq/view?usp=sharing" target="_blank">Resume
                         </a>
                     </li>
                 </ul>
