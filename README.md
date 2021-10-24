@@ -3,7 +3,7 @@
 ## Table of Contents
 * [About Me](https://github.com/Omrironen4/Omri-Ronen-React-Portfolio#about-me)
 * [Description](#description)
-* [How to reach me](#How_to_reach_me)
+* [How to reach me](https://github.com/Omrironen4/Omri-Ronen-React-Portfolio#how-to-reach-me)
 * [Link to portfolio](#Link_to_portfolio)
 
 ## About Me 
