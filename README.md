@@ -1,7 +1,7 @@
 # Welcome to my portfolio! 
 
 ## Table of Contents
-* [About Me](#About_Me)
+* [About Me](https://github.com/Omrironen4/Omri-Ronen-React-Portfolio#about-me)
 * [Description](#description)
 * [How to reach me](#How_to_reach_me)
 * [Link to portfolio](#Link_to_portfolio)
