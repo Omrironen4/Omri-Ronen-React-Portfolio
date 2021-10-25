@@ -16,9 +16,9 @@ Welcome to my portfolio where you can access my information and learn a little b
 
 ### How to reach me:
 
-- :mailbox_with_mail: [Email](omri.ronen4@gmail.com)
+- :mailbox_with_mail: [Email](mailto:omri.ronen4@gmail.com)
 - :raising_hand_man:  [LinkedIn](https://www.linkedin.com/in/omri4/)
 
 ### Link to portfoloio:
 
-- [Portfolio](https://omrironen4.github.io/Omri-Ronen-React-Portfolio/)
+- [Portfolio](https://omri-ronen-portfolio.herokuapp.com/)
