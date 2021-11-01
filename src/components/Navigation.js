@@ -10,7 +10,7 @@ const Navigation = ({ page, handlePageChange }) => {
                     className="brand-logo right">Omri
                     Ronen
                 </a>
-                <a href="#" className="sidenav-trigger"
+                <a  className="sidenav-trigger"
                     data-target="mobile-links">
                     <i className="material-icons">menu</i>
                 </a>
