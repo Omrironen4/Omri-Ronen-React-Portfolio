@@ -14,7 +14,7 @@ export default function AboutMe() {
             <div className="row">
 
                 <div className="col s12 m12 l12 center-align">
-                    <img className="headshot" alt="Image" src={HeadShot}></img>
+                    <img className="headshot" alt="" src={HeadShot}></img>
                 </div>
 
                 <div className="col s12 m12 l12">
