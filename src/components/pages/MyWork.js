@@ -57,7 +57,7 @@ export default function MyWork() {
                             it page<i
                                 className="material-icons right">more_vert</i></span>
                         <p><i className="material-icons"><a
-                            href="#https://iamalittleforest.github.io/project-1/makeit.html"></a>link</i>
+                            href="https://omrironen4.github.io/Make-it-Buy-it/makeit.html"></a>link</i>
                         </p>
                     </div>
                     <div className="card-reveal">
@@ -84,7 +84,7 @@ export default function MyWork() {
                                 className="material-icons right">more_vert</i></span>
                         <p><i className="material-icons"><a
                             className="link"
-                            href="https://iamalittleforest.github.io/project-1/buyit.html"></a>link</i>
+                            href="https://omrironen4.github.io/Make-it-Buy-it/buyit.html"></a>link</i>
                         </p>
                     </div>
                     <div className="card-reveal">
@@ -140,7 +140,7 @@ export default function MyWork() {
                         <p>
                             <i className="material-icons"><a
                                 className="link"
-                                href="https://omrironen4.github.io/weather-dashboard-homework-6/"></a>link</i>
+                                href="https://omrironen4.github.io/weather-dashboard/" target="_blank" rel="noreferrer"></a>link</i>
                         </p>
                     </div>
                     <div className="card-reveal">
@@ -166,7 +166,7 @@ export default function MyWork() {
             {/* <!-- 13th row --> */}
             <div className="row">
                 <div className="col s6 m6 l6">
-                    <a href="https://project-2-pet-connect.herokuapp.com/" target="_blank">Go to application</a>
+                    <a href="https://project-2-pet-connect.herokuapp.com/" target="_blank" rel="noreferrer">Go to application</a>
                 </div>
             </div>
             {/* <!-- 14th row --> */}
@@ -191,7 +191,7 @@ export default function MyWork() {
                         <p>
                             <i className="material-icons"><a
                                 className="link"
-                                href="https://project-2-pet-connect.herokuapp.com/"></a>link</i>
+                                href="https://project-2-pet-connect.herokuapp.com/" target="_blank" rel="noreferrer"></a>link</i>
                         </p>
                     </div>
                     <div className="card-reveal">
@@ -239,7 +239,7 @@ export default function MyWork() {
                         <p>
                             <i className="material-icons"><a
                                 className="link"
-                                href="https://project-2-pet-connect.herokuapp.com/"></a>link</i>
+                                href="https://project-2-pet-connect.herokuapp.com/" target="_blank" rel="noreferrer"></a>link</i>
                         </p>
                     </div>
                     <div className="card-reveal">
@@ -286,7 +286,7 @@ export default function MyWork() {
                         <p>
                             <i className="material-icons"><a
                                 className="link"
-                                href="https://project-2-pet-connect.herokuapp.com/"></a>link</i>
+                                href="https://project-2-pet-connect.herokuapp.com/" target="_blank" rel="noreferrer"></a>link</i>
                         </p>
                     </div>
                     <div className="card-reveal">
@@ -309,7 +309,7 @@ export default function MyWork() {
             {/* <!-- 17th row --> */}
             <div className="row">
                 <div className="col s6 m6 l6">
-                    <a href="https://budget-tracker-omri.herokuapp.com/" target="_blank">Go to application</a>
+                    <a href="https://budget-tracker-omri.herokuapp.com/" target="_blank" rel="noreferrer">Go to application</a>
                 </div>
             </div>
             {/* <!-- 18th row --> */}
@@ -334,7 +334,7 @@ export default function MyWork() {
                         <p>
                             <i className="material-icons"><a
                                 className="link"
-                                href="https://project-2-pet-connect.herokuapp.com/"></a>link</i>
+                                href="https://project-2-pet-connect.herokuapp.com/" target="_blank" rel="noreferrer"></a>link</i>
                         </p>
                     </div>
                     <div className="card-reveal">
