@@ -27,7 +27,7 @@ export default function MyWork() {
             {/* <!-- row --> */}
             <div className="row">
                 <div className="col s6 m6 l6">
-                    <a href="https://omrironen4.github.io/project-1/" target="_blank">Go to application</a>
+                    <a href="https://omrironen4.github.io/Make-it-Buy-it/" target="_blank">Go to application</a>
                 </div>
             </div>
             {/* <!-- 7th row --> */}
