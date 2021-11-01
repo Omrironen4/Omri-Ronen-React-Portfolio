@@ -11,7 +11,7 @@ const Footer = () => {
                         <div className="col l4 offset-l2 s12">
                             <ul className="left">
                                 <li><a className="grey-text text-lighten-3"
-                                    href="https://github.com/Omrironen4" target="_blank">GitHub</a>
+                                    href="https://github.com/Omrironen4" target="_blank"  rel="noreferrer">GitHub</a>
                                 </li>
                                 <li><a className="grey-text text-lighten-3"
                                     href="https://www.linkedin.com/in/omri-ronen-a72766206/" target="_blank">LinkedIn
