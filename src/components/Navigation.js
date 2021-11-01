@@ -38,17 +38,17 @@ const Navigation = ({ page, handlePageChange }) => {
                     </li>
                     <li>
                         <a className="middle"
-                            href="https://github.com/Omrironen4" target="_blank">GitHub
+                            href="https://github.com/Omrironen4" target="_blank" rel="noreferrer">GitHub
                         </a>
                     </li>
                     <li>
                         <a className="middle"
-                            href="https://www.linkedin.com/in/omri-ronen-a72766206/" target="_blank">LinkedIn
+                            href="https://www.linkedin.com/in/omri-ronen-a72766206/" target="_blank" rel="noreferrer">LinkedIn
                         </a>
                     </li>
                     <li>
                         <a
-                            className="middle" href="https://drive.google.com/file/d/106UkBzYzoWFOG0kt0m1K1aPvxABlSQDC/view?usp=sharing" target="_blank">Resume
+                            className="middle" href="https://drive.google.com/file/d/106UkBzYzoWFOG0kt0m1K1aPvxABlSQDC/view?usp=sharing" target="_blank" rel="noreferrer">Resume
                         </a>
                     </li>
                 </ul>

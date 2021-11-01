@@ -25,13 +25,13 @@ const SideNav = ({handlePageChange}) => {
                             onClick={() => handlePageChange('My Work')} href="#mywork">My Work</a>
                     </li>
                     <li>
-                        <a href="https://github.com/Omrironen4" target="_blank">GitHub</a>
+                        <a href="https://github.com/Omrironen4" target="_blank" rel="noreferrer">GitHub</a>
                     </li>
                     <li>
-                        <a href="https://www.linkedin.com/in/omri-ronen-a72766206/" target="_blank">LinkedIn</a>
+                        <a href="https://www.linkedin.com/in/omri-ronen-a72766206/" target="_blank" rel="noreferrer">LinkedIn</a>
                     </li>
                     <li>
-                        <a href="https://drive.google.com/file/d/106UkBzYzoWFOG0kt0m1K1aPvxABlSQDC/view?usp=sharing" target="_blank">Resume</a>
+                        <a href="https://drive.google.com/file/d/106UkBzYzoWFOG0kt0m1K1aPvxABlSQDC/view?usp=sharing" target="_blank" rel="noreferrer">Resume</a>
                     </li>
             </ul> 
     )

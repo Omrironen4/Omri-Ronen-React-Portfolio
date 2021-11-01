@@ -27,7 +27,7 @@ export default function MyWork() {
             {/* <!-- row --> */}
             <div className="row">
                 <div className="col s6 m6 l6">
-                    <a href="https://omrironen4.github.io/Make-it-Buy-it/" target="_blank">Go to application</a>
+                    <a href="https://omrironen4.github.io/Make-it-Buy-it/" target="_blank" rel="noreferrer">Go to application</a>
                 </div>
             </div>
             {/* <!-- 7th row --> */}
@@ -111,7 +111,7 @@ export default function MyWork() {
             {/* <!-- row --> */}
             <div className="row">
                 <div className="col s6 m6 l6">
-                    <a href="https://omrironen4.github.io/weather-dashboard/" target="_blank">Go to application</a>
+                    <a href="https://omrironen4.github.io/weather-dashboard/" target="_blank" rel="noreferrer">Go to application</a>
                 </div>
             </div>
             {/* <!-- 10th row --> */}
@@ -214,7 +214,7 @@ export default function MyWork() {
             {/* <!-- 17th row --> */}
             <div className="row">
                 <div className="col s6 m6 l6">
-                    <a href="https://note-taker-04.herokuapp.com/" target="_blank">Go to application</a>
+                    <a href="https://note-taker-04.herokuapp.com/" target="_blank" rel="noreferrer">Go to application</a>
                 </div>
             </div>
             {/* <!-- 18th row --> */}
@@ -261,7 +261,7 @@ export default function MyWork() {
             {/* <!-- 17th row --> */}
             <div className="row">
                 <div className="col s6 m6 l6">
-                    <a href="https://oms-workout-tracker.herokuapp.com/" target="_blank">Go to application</a>
+                    <a href="https://oms-workout-tracker.herokuapp.com/" target="_blank" rel="noreferrer">Go to application</a>
                 </div>
             </div>
             {/* <!-- 18th row --> */}
