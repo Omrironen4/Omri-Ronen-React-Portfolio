@@ -111,7 +111,7 @@ export default function MyWork() {
             {/* <!-- row --> */}
             <div className="row">
                 <div className="col s6 m6 l6">
-                    <a href="https://omrironen4.github.io/weather-dashboard-homework-6/" target="_blank">Go to application</a>
+                    <a href="https://omrironen4.github.io/weather-dashboard/" target="_blank">Go to application</a>
                 </div>
             </div>
             {/* <!-- 10th row --> */}
