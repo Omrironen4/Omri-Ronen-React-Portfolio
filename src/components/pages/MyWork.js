@@ -48,7 +48,7 @@ export default function MyWork() {
                 <div className="card small col s5 m4 l4">
                     <div
                         className="card-image waves-effect waves-block waves-light">
-                        <img className="activator"
+                        <img className="activator" alt="Make it picture"
                             src={MakeIt} />
                     </div>
                     <div className="card-content">
@@ -74,7 +74,7 @@ export default function MyWork() {
                 <div className="card small col s5 m4 l4">
                     <div
                         className="card-image waves-effect waves-block waves-light">
-                        <img className="activator"
+                        <img className="activator" alt="Buy it image"
                             src={buyIt} />
                     </div>
                     <div className="card-content">
@@ -129,7 +129,7 @@ export default function MyWork() {
                 <div className="card small col s8 m8 l8">
                     <div
                         className="card-image waves-effect waves-block waves-light">
-                        <img className="activator"
+                        <img className="activator" alt="Weather app picture"
                             src={weatherApp} />
                     </div>
                     <div className="card-content">
@@ -180,7 +180,7 @@ export default function MyWork() {
                 <div className="card small col s8 m8 l8">
                     <div
                         className="card-image waves-effect waves-block waves-light">
-                        <img className="activator"
+                        <img className="activator" alt="Pet connect application image"
                             src={petConnect} />
                     </div>
                     <div className="card-content">
@@ -228,7 +228,7 @@ export default function MyWork() {
                 <div className="card small col s8 m8 l8">
                     <div
                         className="card-image waves-effect waves-block waves-light">
-                        <img className="activator"
+                        <img className="activator" alt="Note taker application picture"
                             src={noteTaker} />
                     </div>
                     <div className="card-content">
@@ -275,7 +275,7 @@ export default function MyWork() {
                 <div className="card small col s8 m8 l8">
                     <div
                         className="card-image waves-effect waves-block waves-light">
-                        <img className="activator"
+                        <img className="activator" alt="workout tracker application image"
                             src={workoutTracker} />
                     </div>
                     <div className="card-content">
@@ -323,7 +323,7 @@ export default function MyWork() {
                 <div className="card small col s8 m8 l8">
                     <div
                         className="card-image waves-effect waves-block waves-light">
-                        <img className="activator"
+                        <img className="activator" alt="budget traker application image"
                             src={budgetTracker} />
                     </div>
                     <div className="card-content">
