@@ -6,7 +6,7 @@ export default function Home() {
         <main>
             <div>
                 <div className="intro-image">
-                    <img className="responsive-img" alt="Intro Background Image"
+                    <img className="responsive-img" alt="Image"
                         src={kauaiPic} />
                 </div>
                 <h5 className="brand-logo welcome">Welcome
