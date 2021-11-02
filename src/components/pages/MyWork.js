@@ -56,9 +56,9 @@ export default function MyWork() {
                             className="card-title activator grey-text text-darken-4">Make
                             it page<i
                                 className="material-icons right">more_vert</i></span>
-                        <p><i className="material-icons"><a
+                        {/* <p><i className="material-icons"><a
                             href="https://omrironen4.github.io/Make-it-Buy-it/makeit.html"></a>link</i>
-                        </p>
+                        </p> */}
                     </div>
                     <div className="card-reveal">
                         <span
@@ -82,10 +82,10 @@ export default function MyWork() {
                             className="card-title activator grey-text text-darken-4">Buy
                             it page<i
                                 className="material-icons right">more_vert</i></span>
-                        <p><i className="material-icons"><a
+                        {/* <p><i className="material-icons"><a
                             className="link"
                             href="https://omrironen4.github.io/Make-it-Buy-it/buyit.html"></a>link</i>
-                        </p>
+                        </p> */}
                     </div>
                     <div className="card-reveal">
                         <span
@@ -137,11 +137,11 @@ export default function MyWork() {
                             className="card-title activator grey-text text-darken-4"><i
                                 className="material-icons right">more_vert</i>
                         </span>
-                        <p>
+                        {/* <p>
                             <i className="material-icons"><a
                                 className="link"
                                 href="https://omrironen4.github.io/weather-dashboard/" target="_blank" rel="noreferrer"></a>link</i>
-                        </p>
+                        </p> */}
                     </div>
                     <div className="card-reveal">
                         <span
@@ -188,11 +188,11 @@ export default function MyWork() {
                             className="card-title activator grey-text text-darken-4"><i
                                 className="material-icons right">more_vert</i>
                         </span>
-                        <p>
+                        {/* <p>
                             <i className="material-icons"><a
                                 className="link"
                                 href="https://project-2-pet-connect.herokuapp.com/" target="_blank" rel="noreferrer"></a>link</i>
-                        </p>
+                        </p> */}
                     </div>
                     <div className="card-reveal">
                         <span
@@ -236,11 +236,11 @@ export default function MyWork() {
                             className="card-title activator grey-text text-darken-4"><i
                                 className="material-icons right">more_vert</i>
                         </span>
-                        <p>
+                        {/* <p>
                             <i className="material-icons"><a
                                 className="link"
                                 href="https://project-2-pet-connect.herokuapp.com/" target="_blank" rel="noreferrer"></a>link</i>
-                        </p>
+                        </p> */}
                     </div>
                     <div className="card-reveal">
                         <span
@@ -283,11 +283,11 @@ export default function MyWork() {
                             className="card-title activator grey-text text-darken-4"><i
                                 className="material-icons right">more_vert</i>
                         </span>
-                        <p>
+                        {/* <p>
                             <i className="material-icons"><a
                                 className="link"
                                 href="https://project-2-pet-connect.herokuapp.com/" target="_blank" rel="noreferrer"></a>link</i>
-                        </p>
+                        </p> */}
                     </div>
                     <div className="card-reveal">
                         <span
@@ -331,11 +331,11 @@ export default function MyWork() {
                             className="card-title activator grey-text text-darken-4"><i
                                 className="material-icons right">more_vert</i>
                         </span>
-                        <p>
+                        {/* <p>
                             <i className="material-icons"><a
                                 className="link"
                                 href="https://project-2-pet-connect.herokuapp.com/" target="_blank" rel="noreferrer"></a>link</i>
-                        </p>
+                        </p> */}
                     </div>
                     <div className="card-reveal">
                         <span
