@@ -18,7 +18,7 @@ const Navigation = ({ page, handlePageChange }) => {
                     <li>
                         <a className="middle active"
                             onClick={() => handlePageChange('Contact')}
-                            href="#">Contact
+                            href="#Contact">Contact
 
                         </a>
                     </li>
