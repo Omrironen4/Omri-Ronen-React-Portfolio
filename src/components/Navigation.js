@@ -11,7 +11,8 @@ const Navigation = ({ page, handlePageChange }) => {
                     Ronen
                 </a>
                 <a  className="sidenav-trigger"
-                    data-target="mobile-links">
+                    data-target="mobile-links"
+                    href="#Menu">
                     <i className="material-icons">menu</i>
                 </a>
                 <ul className="left hide-on-med-and-down">
@@ -25,14 +26,14 @@ const Navigation = ({ page, handlePageChange }) => {
                     <li>
                         <a className="middle"
                             onClick={() => handlePageChange('About Me')}
-                            href="#">About
+                            href="#About Me">About
                             Me
                         </a>
                     </li>
                     <li>
                         <a className="middle"
                             onClick={() => handlePageChange('My Work')}
-                            href="#">My
+                            href="#My Work">My
                             Work
                         </a>
                     </li>
