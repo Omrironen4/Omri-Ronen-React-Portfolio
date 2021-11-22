@@ -6,6 +6,7 @@ import petConnect from '../../Assets/Images/petconnect.png';
 import noteTaker from '../../Assets/Images/notetaker.png';
 import workoutTracker from '../../Assets/Images/workout.png';
 import budgetTracker from '../../Assets/Images/budget.png';
+import makeitbuyit from '../../Assets/Images/makeitbuyit.png'
 export default function MyWork() {
     return (
         <main>
@@ -46,29 +47,7 @@ export default function MyWork() {
             {/* <!-- 8th row make it & buy it card --> */}
             <div className="row">
                 <div className="card small col s5 m4 l4">
-                    <div
-                        className="card-image waves-effect waves-block waves-light">
-                        <img className="activator" alt=""
-                            src={MakeIt} />
-                    </div>
-                    <div className="card-content">
-                        <span
-                            className="card-title activator grey-text text-darken-4">Make
-                            it page<i
-                                className="material-icons right">more_vert</i></span>
-                        {/* <p><i className="material-icons"><a
-                            href="https://omrironen4.github.io/Make-it-Buy-it/makeit.html"></a>link</i>
-                        </p> */}
-                    </div>
-                    <div className="card-reveal">
-                        <span
-                            className="card-title grey-text text-darken-4"><i
-                                className="material-icons right">close</i></span>
-                        <p className="info">Enter your
-                            ingredients separated by a
-                            comma, and find some
-                            amazing recipes!</p>
-                    </div>
+                <img src={makeitbuyit} alt="Application photo"/>
                 </div>
 
                 <div className="card small col s5 m4 l4">
