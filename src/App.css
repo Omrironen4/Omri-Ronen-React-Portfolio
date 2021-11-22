@@ -5,6 +5,7 @@ html {
   font-weight: normal;
   color: white;
 }
+
 .nav-wrapper {
   background-color:#01426A ;
 }
@@ -162,6 +163,7 @@ ul {
   border-top-style:ridge;
   border-top-color: #FFF;
 }
+
 @media only screen and (max-width: 280px){
   .welcome {
       position: absolute;
