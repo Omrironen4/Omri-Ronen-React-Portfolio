@@ -5,25 +5,28 @@ export default function Contact() {
         // <!-- 1st row -->
         <main>
             <div className="row">
-            <div className="center col s12 m12 l12">
-                <p className="title" id="contact">
-                    Contact me</p>
+                <div className="center col s12 m12 l12">
+                    <p className="title" id="contact">
+                        Contact me</p>
+                </div>
+
+                <i className="large material-icons center col s12 m12 l12" >group_add</i>
+
             </div>
-        </div>
-        {/* <!-- 2nd row --> */}
-        <div className="row">
-            <div className="center col s12 m12 l12">
-                <ul className="contact-info">
-                    <li>Name: Omri Ronen</li>
-                    <li>Email: <a
+            {/* <!-- 2nd row --> */}
+            <div className="row">
+                <div className="center col s12 m12 l12">
+                    <ul className="contact-info">
+                        <li>Name: Omri Ronen</li>
+                        <li>Email: <a
                             className="email-color"
                             href="mailto:omri.ronen4@gmail.com">
                             omri.ronen4@gmail.com</a>
-                    </li>
-                    <li>Phone: (949)-910-7806</li>
-                </ul>
+                        </li>
+                        <li>Phone: (949)-910-7806</li>
+                    </ul>
+                </div>
             </div>
-        </div>
         </main>
     );
 }

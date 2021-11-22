@@ -1,12 +1,11 @@
 import React from 'react';
-import buyIt from '../../Assets/Images/buyit.png';
-import MakeIt from '../../Assets/Images/makeit.png';
-import weatherApp from '../../Assets/Images/weatherapp.png';
-import petConnect from '../../Assets/Images/petconnect.png';
-import noteTaker from '../../Assets/Images/notetaker.png';
-import workoutTracker from '../../Assets/Images/workout.png';
-import budgetTracker from '../../Assets/Images/budget.png';
-import makeitbuyit from '../../Assets/Images/makeitbuyit.png'
+import makeitbuyitcoverpage from '../../Assets/Images/makeitbuyitcoverpage.png';
+import notetaker from '../../Assets/Images/notetaker.png';
+import petconnect from '../../Assets/Images/petconnect.png';
+import weatherapp from '../../Assets/Images/weatherapp.png';
+import workday from '../../Assets/Images/workday.png';
+import workouttracker from '../../Assets/Images/workouttracker.png';
+
 export default function MyWork() {
     return (
         <main>
@@ -18,313 +17,125 @@ export default function MyWork() {
                 </div>
             </div>
             {/* <!-- 6th row --> */}
-            <div className="row">
-                <div className="col s12 m6 l6">
-                    <i className="material-icons">filter_list</i>
-                    <p className="project-title">Make it |
-                        Buy it</p>
+
+            <div className='container'>
+                {/* <!-- Beginning of 1st project row--> */}
+                <div className='row'>
+                    <div className='col s12 m6 l6'>
+                        <div className="card">
+                            <div className="card-image waves-effect waves-block waves-light">
+                                <img className="activator" alt='makeit\buyit' src={makeitbuyitcoverpage} />
+                            </div>
+                            <div className="card-content">
+                                <span className="card-title activator grey-text text-darken-4">Make it |
+                                    Buy it<i className="material-icons right">more_vert</i></span>
+                                <p><a target='_blank'  rel="noreferrer" href="https://omrironen4.github.io/Make-it-Buy-it/">Link to App</a></p>
+                                <p><a target='_blank' rel="noreferrer" href="https://github.com/Omrironen4/Make-it-Buy-it">Link to Github</a></p>
+                            </div>
+                            <div className="card-reveal" >
+                                <span className="card-title grey-text text-darken-4">Description<i className="material-icons right">close</i></span>
+                                <p className='card-description'>The Make it / Buy It application is designed to help users who need help with deciding on their next meal. If a user decides to “Make It,” they will navigate to a page that will pull up recipes based on ingredients that the user wants to use. On the other hand, if the user decides to “Buy It,” they will navigate to a page that will pull up restaurants based on a location the user chooses.</p>
+                            </div>
+                        </div>
+                    </div>
+                    {/* card2 */}
+                    <div className='col s12 m6 l6'>
+                        <div className="card">
+                            <div className="card-image waves-effect waves-block waves-light">
+                                <img className="activator" alt='weatherapp' rel="noreferrer" src={weatherapp} />
+                            </div>
+                            <div className="card-content">
+                                <span className="card-title activator grey-text text-darken-4">Weather
+                                    Application<i className="material-icons right">more_vert</i></span>
+                                <p><a target='_blank' rel="noreferrer" href="https://omrironen4.github.io/weather-dashboard/">Link to App</a></p>
+                                <p><a target='_blank' rel="noreferrer" href="https://github.com/Omrironen4/weather-dashboard">Link to Github</a></p>
+                            </div>
+                            <div className="card-reveal" >
+                                <span className="card-title grey-text text-darken-4">Description<i className="material-icons right">close</i></span>
+                                <p className='card-description'>This application provides the weather forecast to many cities around the world. Search in the search bar for your city, and see the 5 day weather forcast, including today. UV index is color coded from green to red ranking the severity of the uv ray danger. Hopefully you enjoy using this application!</p>
+                            </div>
+                        </div>
+                    </div>
                 </div>
-            </div>
-            {/* <!-- row --> */}
-            <div className="row">
-                <div className="col s6 m6 l6">
-                    <a href="https://omrironen4.github.io/Make-it-Buy-it/" target="_blank" rel="noreferrer">Go to application</a>
+
+                {/* <!-- Beginning of 2nd project row--> */}
+                <div className='row'>
+                    <div className='col s12 m6 l6'>
+                        <div className="card">
+                            <div className="card-image waves-effect waves-block waves-light">
+                                <img className="activator" alt='petconnect' src={petconnect} />
+                            </div>
+                            <div className="card-content">
+                                <span className="card-title activator grey-text text-darken-4">Pet Connect<i className="material-icons right">more_vert</i></span>
+                                <p><a target='_blank' rel="noreferrer" href="https://project-2-pet-connect.herokuapp.com/">Link to App</a></p>
+                                <p><a target='_blank' rel="noreferrer" href="https://github.com/Omrironen4/Pet-Connect">Link to Github</a></p>
+                            </div>
+                            <div className="card-reveal" >
+                                <span className="card-title grey-text text-darken-4">Description<i className="material-icons right">close</i></span>
+                                <p className='card-description'>Pet Connect is a social media application that is designed to connect pet owners. Users can create posts to plan dog walks with others, get potty training lessons, provide product information, and ask questions from other pet owners. If they’re lucky, they can even find soulmates for their pets.</p>
+                            </div>
+                        </div>
+                    </div>
+                    {/* card2 */}
+                    <div className='col s12 m6 l6'>
+                        <div className="card">
+                            <div className="card-image waves-effect waves-block waves-light">
+                                <img className="activator" alt='workout tracker' src={workouttracker} />
+                            </div>
+                            <div className="card-content">
+                                <span className="card-title activator grey-text text-darken-4">Workout Tracker<i className="material-icons right">more_vert</i></span>
+                                <p><a target='_blank' rel="noreferrer" href="https://oms-workout-tracker.herokuapp.com/">Link to App</a></p>
+                                <p><a target='_blank' rel="noreferrer" href="https://github.com/Omrironen4/workout-tracker">Link to Github</a></p>
+                            </div>
+                            <div className="card-reveal" >
+                                <span className="card-title grey-text text-darken-4">Description<i className="material-icons right">close</i></span>
+                                <p className='card-description'>The workout tracker application lets users create a workout based on either resistance or cardio. Once the user inputs their workout data, a neat graph is made based on the results!</p>
+                            </div>
+                        </div>
+                    </div>
                 </div>
-            </div>
-            {/* <!-- 7th row --> */}
-            <div className="row">
-                <div className="col s12 m8 l8">
-                    <p className="project-des techFont">An
-                        application that helps users
-                        choose between making food or
-                        buying food.</p>
+
+                {/* <!-- Beginning of 3rd project row--> */}
+                <div className='row'>
+                    <div className='col s12 m6 l6'>
+                        <div className="card">
+                            <div className="card-image waves-effect waves-block waves-light">
+                                <img className="activator" alt='workday scheduler' src={workday} />
+                            </div>
+                            <div className="card-content">
+                                <span className="card-title activator grey-text text-darken-4">Workday Scheduler<i className="material-icons right">more_vert</i></span>
+                                <p><a target='_blank' rel="noreferrer" href="https://omrironen4.github.io/Work-day-scheduler/">Link to App</a></p>
+                                <p><a target='_blank' rel="noreferrer" href="https://github.com/Omrironen4/Work-day-scheduler">Link to Github</a></p>
+                            </div>
+                            <div className="card-reveal" >
+                                <span className="card-title grey-text text-darken-4">Description<i className="material-icons right">close</i></span>
+                                <p className='card-description'>The workday scheduler allows users to set their daily taks in an organized manner. The usage of local storage allows users to save their todos, so they can come back to check on their list!</p>
+                            </div>
+                        </div>
+                    </div>
+                    {/* card2 */}
+                    <div className='col s12 m6 l6'>
+                        <div className="card">
+                            <div className="card-image waves-effect waves-block waves-light">
+                                <img className="activator" alt='note taker' src={notetaker} />
+                            </div>
+                            <div className="card-content">
+                                <span className="card-title activator grey-text text-darken-4">Note Taker<i className="material-icons right">more_vert</i></span>
+                                <p><a target='_blank' rel="noreferrer" href="https://note-taker-04.herokuapp.com/">Link to App</a></p>
+                                <p><a target='_blank' rel="noreferrer" href="https://github.com/Omrironen4/Note-Taker">Link to Github</a></p>
+                            </div>
+                            <div className="card-reveal" >
+                                <span className="card-title grey-text text-darken-4">Description<i className="material-icons right">close</i></span>
+                                <p className='card-description'>This application allows users to add notes, save them, and delete them too if needed. A great place to write things down and have them saved for later.
+                                </p>
+
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
 
 
-
-
-            {/* <!-- 8th row make it & buy it card --> */}
-            <div className="row">
-                <div className="card small col s5 m4 l4">
-                    <img src={makeitbuyit} alt="Application photo"/>
-                </div>
-
-                <div className="card small col s5 m4 l4">
-                    <div
-                        className="card-image waves-effect waves-block waves-light">
-                        <img className="activator" alt=""
-                            src={buyIt} />
-                    </div>
-                    <div className="card-content">
-                        <span
-                            className="card-title activator grey-text text-darken-4">Buy
-                            it page<i
-                                className="material-icons right">more_vert</i></span>
-                        {/* <p><i className="material-icons"><a
-                            className="link"
-                            href="https://omrironen4.github.io/Make-it-Buy-it/buyit.html"></a>link</i>
-                        </p> */}
-                    </div>
-                    <div className="card-reveal">
-                        <span
-                            className="card-title grey-text text-darken-4"><i
-                                className="material-icons right">close</i></span>
-                        <p className="info">Search for
-                            restaurants near you by
-                            typing in your city!</p>
-                    </div>
-                </div>
-            </div>
-
-
-
-            {/* <!-- 9th row --> */}
-            <div className="row">
-                <div className="col s12 m6 l6">
-                    <i className="material-icons">filter_list</i>
-                    <p className="project-title">Weather
-                        Application</p>
-                </div>
-            </div>
-            {/* <!-- row --> */}
-            <div className="row">
-                <div className="col s6 m6 l6">
-                    <a href="https://omrironen4.github.io/weather-dashboard/" target="_blank" rel="noreferrer">Go to application</a>
-                </div>
-            </div>
-            {/* <!-- 10th row --> */}
-            <div className="row">
-                <div className="col s12 m8 l8">
-                    <p className="project-des techFont">Weather
-                        dashboard is an application
-                        that allows users to check the
-                        current weather in cities
-                        around the world.</p>
-                </div>
-            </div>
-            {/* <!-- 11th row --> */}
-            <div className="row">
-                <div className="card small col s8 m8 l8">
-                    <div
-                        className="card-image waves-effect waves-block waves-light">
-                        <img className="activator" alt=""
-                            src={weatherApp} />
-                    </div>
-                    <div className="card-content">
-                        <span
-                            className="card-title activator grey-text text-darken-4"><i
-                                className="material-icons right">more_vert</i>
-                        </span>
-                        {/* <p>
-                            <i className="material-icons"><a
-                                className="link"
-                                href="https://omrironen4.github.io/weather-dashboard/" target="_blank" rel="noreferrer"></a>link</i>
-                        </p> */}
-                    </div>
-                    <div className="card-reveal">
-                        <span
-                            className="card-title grey-text text-darken-4"><i
-                                className="material-icons right">close</i></span>
-                        <p className="info">In this
-                            application, users can
-                            check the weather based on
-                            location by city - see the
-                            5 day forcast in your
-                            city!</p>
-                    </div>
-                </div>
-            </div>
-            {/* <!-- 12th row --> */}
-            <div className="row">
-                <div className="col s12 m6 l6">
-                    <i className="material-icons">filter_list</i>
-                    <p className="project-title">Pet Connect</p>
-                </div>
-            </div>
-            {/* <!-- 13th row --> */}
-            <div className="row">
-                <div className="col s6 m6 l6">
-                    <a href="https://project-2-pet-connect.herokuapp.com/" target="_blank" rel="noreferrer">Go to application</a>
-                </div>
-            </div>
-            {/* <!-- 14th row --> */}
-            <div className="row">
-                <div className="col s12 m8 l8">
-                    <p className="project-des techFont">Pet Connect is an application for pet owners around Orange County to chat and connect!</p>
-                </div>
-            </div>
-            {/* <!-- 15th row --> */}
-            <div className="row">
-                <div className="card small col s8 m8 l8">
-                    <div
-                        className="card-image waves-effect waves-block waves-light">
-                        <img className="activator" alt=""
-                            src={petConnect} />
-                    </div>
-                    <div className="card-content">
-                        <span
-                            className="card-title activator grey-text text-darken-4"><i
-                                className="material-icons right">more_vert</i>
-                        </span>
-                        {/* <p>
-                            <i className="material-icons"><a
-                                className="link"
-                                href="https://project-2-pet-connect.herokuapp.com/" target="_blank" rel="noreferrer"></a>link</i>
-                        </p> */}
-                    </div>
-                    <div className="card-reveal">
-                        <span
-                            className="card-title grey-text text-darken-4"><i
-                                className="material-icons right">close</i></span>
-                        <p className="info">This application is designed to connect pet owners in the Orange County area - with the ability to share information and also meet. Users can
-                            create an accout for themselves and their pets. In this CMS style application users can create blog posts, comment on posts, remove/update posts, and more! </p>
-                    </div>
-                </div>
-            </div>
-
-            {/* <!-- 16th row --> */}
-            <div className="row">
-                <div className="col s12 m6 l6">
-                    <i className="material-icons">filter_list</i>
-                    <p className="project-title">Note Taker</p>
-                </div>
-            </div>
-            {/* <!-- 17th row --> */}
-            <div className="row">
-                <div className="col s6 m6 l6">
-                    <a href="https://note-taker-04.herokuapp.com/" target="_blank" rel="noreferrer">Go to application</a>
-                </div>
-            </div>
-            {/* <!-- 18th row --> */}
-            <div className="row">
-                <div className="col s12 m8 l8">
-                    <p className="project-des techFont">Note Taker is an application that allows users to create, edit, and remove notes. This is a great place to store notes for just about anything. </p>
-                </div>
-            </div>
-            {/* <!-- 19th row --> */}
-            <div className="row">
-                <div className="card small col s8 m8 l8">
-                    <div
-                        className="card-image waves-effect waves-block waves-light">
-                        <img className="activator" alt=""
-                            src={noteTaker} />
-                    </div>
-                    <div className="card-content">
-                        <span
-                            className="card-title activator grey-text text-darken-4"><i
-                                className="material-icons right">more_vert</i>
-                        </span>
-                        {/* <p>
-                            <i className="material-icons"><a
-                                className="link"
-                                href="https://project-2-pet-connect.herokuapp.com/" target="_blank" rel="noreferrer"></a>link</i>
-                        </p> */}
-                    </div>
-                    <div className="card-reveal">
-                        <span
-                            className="card-title grey-text text-darken-4"><i
-                                className="material-icons right">close</i></span>
-                        <p className="info">In this application I helped create a note taker using Node.js and Express.js. The front end code was given, while the back-end code was not. This application allows users to add notes, save them, and delete them too if needed. I linked up back-end code to work with the front end and deployed this application on Heroku. </p>
-                    </div>
-                </div>
-            </div>
-
-            {/* <!-- 16th row --> */}
-            <div className="row">
-                <div className="col s12 m6 l6">
-                    <i className="material-icons">filter_list</i>
-                    <p className="project-title">Workout Tracker</p>
-                </div>
-            </div>
-            {/* <!-- 17th row --> */}
-            <div className="row">
-                <div className="col s6 m6 l6">
-                    <a href="https://oms-workout-tracker.herokuapp.com/" target="_blank" rel="noreferrer">Go to application</a>
-                </div>
-            </div>
-            {/* <!-- 18th row --> */}
-            <div className="row">
-                <div className="col s12 m8 l8">
-                    <p className="project-des techFont">Workout Tracker is an application that helps users keep track of their workouts. Users can enter the type of workout, such as resitance or cardio. Detailed graphs are made based on the inputs.</p>
-                </div>
-            </div>
-            {/* <!-- 19th row --> */}
-            <div className="row">
-                <div className="card small col s8 m8 l8">
-                    <div
-                        className="card-image waves-effect waves-block waves-light">
-                        <img className="activator" alt=""
-                            src={workoutTracker} />
-                    </div>
-                    <div className="card-content">
-                        <span
-                            className="card-title activator grey-text text-darken-4"><i
-                                className="material-icons right">more_vert</i>
-                        </span>
-                        {/* <p>
-                            <i className="material-icons"><a
-                                className="link"
-                                href="https://project-2-pet-connect.herokuapp.com/" target="_blank" rel="noreferrer"></a>link</i>
-                        </p> */}
-                    </div>
-                    <div className="card-reveal">
-                        <span
-                            className="card-title grey-text text-darken-4"><i
-                                className="material-icons right">close</i></span>
-                        <p className="info">Great application for those who exercise either in cardio or resistance!</p>
-                    </div>
-                </div>
-            </div>
-
-            {/* NEW NEW */}
-            {/* <!-- 16th row --> */}
-            <div className="row">
-                <div className="col s12 m6 l6">
-                    <i className="material-icons">filter_list</i>
-                    <p className="project-title">Budget Tracker</p>
-                </div>
-            </div>
-            {/* <!-- 17th row --> */}
-            <div className="row">
-                <div className="col s6 m6 l6">
-                    <a href="https://budget-tracker-omri.herokuapp.com/" target="_blank" rel="noreferrer">Go to application</a>
-                </div>
-            </div>
-            {/* <!-- 18th row --> */}
-            <div className="row">
-                <div className="col s12 m8 l8">
-                    <p className="project-des techFont">Budge Tracker is an application that helps users keep track of their financial activities. Users can enter their expenses and incomes and in return a chart will display their activity.</p>
-                </div>
-            </div>
-            {/* <!-- 19th row --> */}
-            <div className="row">
-                <div className="card small col s8 m8 l8">
-                    <div
-                        className="card-image waves-effect waves-block waves-light">
-                        <img className="activator" alt=""
-                            src={budgetTracker} />
-                    </div>
-                    <div className="card-content">
-                        <span
-                            className="card-title activator grey-text text-darken-4"><i
-                                className="material-icons right">more_vert</i>
-                        </span>
-                        {/* <p>
-                            <i className="material-icons"><a
-                                className="link"
-                                href="https://project-2-pet-connect.herokuapp.com/" target="_blank" rel="noreferrer"></a>link</i>
-                        </p> */}
-                    </div>
-                    <div className="card-reveal">
-                        <span
-                            className="card-title grey-text text-darken-4"><i
-                                className="material-icons right">close</i></span>
-                        <p className="info">Great application for those who have small expenses to keep track of!</p>
-                    </div>
-                </div>
-            </div>
-            {/* NEW FINISH */}
         </main>
     )
 }

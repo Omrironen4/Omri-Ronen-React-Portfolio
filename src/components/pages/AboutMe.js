@@ -18,16 +18,18 @@ export default function AboutMe() {
                 </div>
 
                 <div className="col s12 m12 l12">
-                    <p className="about-me-par techFont"> Hello, my
-                        name is Omri! I am a full
-                        stack web devleoper with a
-                        deep a passion for science,
-                        and a deep connection with
-                        nature. I graduated with a Bachelor's degree in Health Administration in 2020. During the years of my Bachelor's degree I studied various kinds of sciences, math, and business related courses. 
-                        Once Covid-19 spread around the world, I began to reshape my career path. My goal was to work in an industry with a growing employment rate and high demand. Through my peer's advice, I began studying web development and loved it. Shortly after I signed up for a coding bootcamp.
-                        Now, I am a recent coding bootcamp graduate from the University of California in Irvine. The bootcamp was 6 months of continuous hands on coding in both front-end and back-end technologies. I created many progressive and responsive web applications with cutting edge technologies. I learned the ins and outs of building applications from scratch, and now I feel ready to begin my journey with a company that allows me to grow and perform.
+                    <div className='container'>
+                        <p className="about-me-par techFont"> Hello, my
+                            name is Omri! I am a full
+                            stack web devleoper with a
+                            deep a passion for science,
+                            and a deep connection with
+                            nature. I graduated with a Bachelor's degree in Health Administration in 2020. During the years of my Bachelor's degree I studied various kinds of sciences, math, and business related courses. 
+                            Once Covid-19 spread around the world, I began to reshape my career path. My goal was to work in an industry with a growing employment rate and high demand. Through my peer's advice, I began studying web development and loved it. Shortly after I signed up for a coding bootcamp.
+                            Now, I am a recent coding bootcamp graduate from the University of California in Irvine. The bootcamp was 6 months of continuous hands on coding in both front-end and back-end technologies. I created many progressive and responsive web applications with cutting edge technologies. I learned the ins and outs of building applications from scratch, and now I feel ready to begin my journey with a company that allows me to grow and perform.
 
-                    </p>
+                        </p>
+                    </div>
                     <br></br>
                     <p className="about-me-par center-align techFont"> Here are the major technologies and languages I work with!</p>
 

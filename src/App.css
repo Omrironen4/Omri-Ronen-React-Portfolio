@@ -22,13 +22,13 @@ nav .brand-logo.right {
   }
 }
 
-a {
+.sideNav-color {
   color: #039be5;
   text-decoration: none;
   -webkit-tap-highlight-color: #01426A  ;
 }
 
-a {
+.sideNav-color {
   background-color: #01426A;
   -webkit-text-decoration-skip: objects;
 }
@@ -281,7 +281,7 @@ ul {
 /* make it card */
 .card .card-image img {
   display: block;
-  border-radius: 8px;
+  border-radius: 2%;
   position: relative;
   left: 0;
   right: 0;
@@ -320,7 +320,7 @@ ul {
   transition: -webkit-box-shadow .25s;
   transition: box-shadow .25s;
   transition: box-shadow .25s, -webkit-box-shadow .25s;
-  border-radius: 10%;
+  border-radius: 2%;
 }
 
 .description {
@@ -356,4 +356,8 @@ html {
 
 .techFont {
   font-size: 20px;
+}
+
+.card-description {
+  color: black;
 }
