@@ -47,7 +47,7 @@ export default function MyWork() {
             {/* <!-- 8th row make it & buy it card --> */}
             <div className="row">
                 <div className="card small col s5 m4 l4">
-                <img src={makeitbuyit} alt="Application photo"/>
+                    <img src={makeitbuyit} alt="Application photo"/>
                 </div>
 
                 <div className="card small col s5 m4 l4">
