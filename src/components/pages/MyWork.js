@@ -36,7 +36,7 @@ export default function MyWork() {
                                 <span className="card-title grey-text text-darken-4">Description<i className="material-icons right">close</i></span>
                                 <p className='card-description'>The Make it / Buy It application is designed to help users who need help with deciding on their next meal. If a user decides to “Make It,” they will navigate to a page that will pull up recipes based on ingredients that the user wants to use. On the other hand, if the user decides to “Buy It,” they will navigate to a page that will pull up restaurants based on a location the user chooses.
                                 </p>
-                                <p>Technologies Used: HTML5, CSS3, JavaScript, Materialize CSS, Yelp API, Spoonacular API.</p>
+                                <p className='card-description'>Technologies Used: HTML5, CSS3, JavaScript, Materialize CSS, Yelp API, Spoonacular API.</p>
                             </div>
                         </div>
                     </div>
