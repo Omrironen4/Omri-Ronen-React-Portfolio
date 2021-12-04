@@ -54,7 +54,8 @@ export default function MyWork() {
                             </div>
                             <div className="card-reveal" >
                                 <span className="card-title grey-text text-darken-4">Description<i className="material-icons right">close</i></span>
-                                <p className='card-description'>This application provides the weather forecast to many cities around the world. Search in the search bar for your city, and see the 5 day weather forcast, including today. UV index is color coded from green to red ranking the severity of the uv ray danger. Hopefully you enjoy using this application!</p>
+                                <p className='card-description'>The Weather Dashboard application provides the weather forecast to many cities around the world. Search in the search bar for your city, and see the 5 day weather forcast, including today. UV index is color coded from green to red ranking the severity of the uv ray danger. Hopefully you enjoy using this application!</p>
+                                <p className='card-description'>Technologies Used: HTML5, CSS3, JavaScript, Open Weather App API.</p>
                             </div>
                         </div>
                     </div>
@@ -75,6 +76,7 @@ export default function MyWork() {
                             <div className="card-reveal" >
                                 <span className="card-title grey-text text-darken-4">Description<i className="material-icons right">close</i></span>
                                 <p className='card-description'>Pet Connect is a social media application that is designed to connect pet owners. Users can create posts to plan dog walks with others, get potty training lessons, provide product information, and ask questions from other pet owners. If they’re lucky, they can even find soulmates for their pets.</p>
+                                <p className='card-description'>Technologies Used: HTML5, CSS3, JavaScript, Bootswatch, Heroku, Insomnia, Node.js, Bcrypt Package, Dotenv Package, Express Package, Express-Handlebars Package, Express-Session Package, MySQL Workbench, Nodemailer Package, Sequelize Package.</p>
                             </div>
                         </div>
                     </div>
@@ -92,6 +94,7 @@ export default function MyWork() {
                             <div className="card-reveal" >
                                 <span className="card-title grey-text text-darken-4">Description<i className="material-icons right">close</i></span>
                                 <p className='card-description'>The workout tracker application lets users create a workout based on either resistance or cardio. Once the user inputs their workout data, a neat graph is made based on the results!</p>
+                                <p className='card-description'>Technologies Used: HTML5, CSS3, JavaScript, Node.js, MongoDB, Mongoose, Morgan, Express.</p>
                             </div>
                         </div>
                     </div>
@@ -112,6 +115,7 @@ export default function MyWork() {
                             <div className="card-reveal" >
                                 <span className="card-title grey-text text-darken-4">Description<i className="material-icons right">close</i></span>
                                 <p className='card-description'>The workday scheduler allows users to set their daily taks in an organized manner. The usage of local storage allows users to save their todos, so they can come back to check on their list!</p>
+                                <p className='card-description'>Technologies Used: HTML5, CSS3, JavaScript, Local Storage.</p>
                             </div>
                         </div>
                     </div>
@@ -130,7 +134,7 @@ export default function MyWork() {
                                 <span className="card-title grey-text text-darken-4">Description<i className="material-icons right">close</i></span>
                                 <p className='card-description'>This application allows users to add notes, save them, and delete them too if needed. A great place to write things down and have them saved for later.
                                 </p>
-
+                                <p className='card-description'>Technologies Used: HTML5, CSS3, JavaScript, Node.js, Express.</p>
                             </div>
                         </div>
                     </div>
