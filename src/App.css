@@ -6,6 +6,10 @@ html {
   color: white;
 }
 
+.into-image {
+  display: flex;
+}
+
 .nav-wrapper {
   background-color:#01426A ;
 }
