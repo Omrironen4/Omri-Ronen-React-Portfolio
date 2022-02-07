@@ -31,7 +31,7 @@ const SideNav = ({handlePageChange}) => {
                         <a className='sideNav-color' href="https://www.linkedin.com/in/omri-ronen-a72766206/" target="_blank" rel="noreferrer">LinkedIn</a>
                     </li>
                     <li>
-                        <a  className='sideNav-color' href="https://drive.google.com/file/d/106UkBzYzoWFOG0kt0m1K1aPvxABlSQDC/view?usp=sharing" target="_blank" rel="noreferrer">Resume</a>
+                        <a  className='sideNav-color' href="https://drive.google.com/file/d/1A3b2W0CQ61MmlNieFgkFsoMxujbtXk1h/view?usp=sharing" target="_blank" rel="noreferrer">Resume</a>
                     </li>
             </ul> 
     )
