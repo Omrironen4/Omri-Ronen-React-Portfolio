@@ -19,7 +19,7 @@ export default function AboutMe() {
 
                 <div className="col s12 m12 l12">
                     <div className='container'>
-                        <p className="about-me-par techFont"> Hello
+                        <p className="about-me-par techFont"> Hello, my name is Omri and I am a full stack web developer with a deep passion for science and a strong connection with nature. I graduated with a Bachelor's degree in Health Administration in 2020 from the University of Hawaii. During my undergraduate years I studied science, math, and business. Once Covid-19 hit, I began reshaping my career path and started studying web development in a coding boot camp which I found to be exciting and fun. In August 2021 I graduated with a Full-Stack Web Development Certification from the University of California in Irvine. The boot camp was a 6 month program of continuous hands on coding in both front-end and back-end technologies. Since then, I created many progressive and responsive web applications with cutting edge technologies and learned the ins and outs of building applications from scratch. Today I feel ready to begin my journey as a web developer in a company where I can expend my skills and contribute to its success.
                         </p>
                     </div>
                     <br></br>
