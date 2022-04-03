@@ -14,7 +14,7 @@ const Footer = () => {
                                 href="https://www.linkedin.com/in/omri-ronen-a72766206/" target="_blank" rel="noreferrer" >LinkedIn
                             </a></li>
                             <li><a className="grey-text text-lighten-3"
-                                href="https://drive.google.com/file/d/106UkBzYzoWFOG0kt0m1K1aPvxABlSQDC/view?usp=sharing" download target="_blank" rel="noreferrer">Resume
+                                href="https://drive.google.com/file/d/1BCYckZVNFCqVfAV2TwpH5oK5b0lm2b5y/view?usp=sharing" download target="_blank" rel="noreferrer">Resume
                             </a></li>
                         </ul>
                     </div>
