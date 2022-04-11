@@ -23,7 +23,7 @@ export default function AboutMe() {
                         </p>
                     </div>
                     <br></br>
-                    <p className="about-me-par center-align techFont"> Here are the major technologies and languages I work with!</p>
+                    <p className="about-me-par center-align techFont"> Here are the major technologies and languages I work with:</p>
 
                 </div>
 
