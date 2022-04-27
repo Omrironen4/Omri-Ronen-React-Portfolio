@@ -1,5 +1,6 @@
 import React from 'react';
-import HeadShot from '../../Assets/Images/HeadShot.jpg'
+// import HeadShot from '../../Assets/Images/HeadShot.jpg'
+import shorthairme from '../../Assets/Images/shorthairme.png'
 export default function AboutMe() {
     return (
         <main>
@@ -14,7 +15,7 @@ export default function AboutMe() {
             <div className="row">
 
                 <div className="col s12 m12 l12 center-align">
-                    <img className="headshot" alt="" src={HeadShot}></img>
+                    <img className="headshot" alt="" src={shorthairme}></img>
                 </div>
 
                 <div className="col s12 m12 l12">
@@ -28,16 +29,16 @@ export default function AboutMe() {
                 </div>
 
                 <div className="col s12 m12 l12 center-align">
-                        <li className="techFont">HTML + CSS</li>
-                        <li className="techFont">JavaScript</li>
-                        <li className="techFont">Node.js</li>
-                        <li className="techFont">MongoDB</li>
-                        <li className="techFont">MySQL</li>
-                        <li className="techFont">Mongoose</li>
-                        <li className="techFont">Sequelize</li>
-                        <li className="techFont">Express</li>
-                        <li className="techFont">jQuery</li>
-                        <li className="techFont">Bootstrap + Materialize</li>
+                    <li className="techFont">HTML + CSS</li>
+                    <li className="techFont">JavaScript</li>
+                    <li className="techFont">Node.js</li>
+                    <li className="techFont">MongoDB</li>
+                    <li className="techFont">MySQL</li>
+                    <li className="techFont">Mongoose</li>
+                    <li className="techFont">Sequelize</li>
+                    <li className="techFont">Express</li>
+                    <li className="techFont">jQuery</li>
+                    <li className="techFont">Bootstrap + Materialize</li>
                 </div>
 
             </div>
